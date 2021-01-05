@@ -107,7 +107,7 @@ th, td { padding: 15px; }
 
 a { color: black; }
 
-.readability { background:rgba(255,255,255,0.8); padding: 60px 100px 60px 100px; border:3px solid black;}
+.readability { background:rgba(255,255,255,0.8); padding: 60px 100px 60px 100px; border:1px solid black;}
 
 #sketchpad {
   border: #cec0fc 3px solid;
