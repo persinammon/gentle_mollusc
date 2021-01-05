@@ -1,13 +1,12 @@
 words = [
 "I aspire to the joy of the very first \"Hello World!\". I think I feel a glimmer of it every time I ping a server?",
 "Can the writer also be the muse?",
-"Time to zoom",
 "[Absence, Absinthe, Abstinence] makes the heart grow fonder.",
-"6/12/2019: Next Level Charli - Charli XCX",
-"Birthday wishlist: mbira, a happy sprawling chili plant, ReMarkable tablet. I actually received and made/bought/received everything I wanted in late 2019/early 2020 :D",
+"Next Level Charli - Charli XCX *drool*",
 "Apparently 'This Song is Not For Anyone But You' became 'Twilight' in English....<a href='https://www.youtube.com/watch?v=gd38-X3HpbM' target='_blank'>https://www.youtube.com/watch?v=gd38-X3HpbM</a>",
 "\"meeting the right person at the wrong time\"",
-"I would like to shake hands with the writer of Jekyll. And vim. And atom. And a lot of other people this is opening a gushing can of worms."
+"A Would You Rather for the Thanksgiving table: Would you rather eat a <a href=\"https://en.wikipedia.org/wiki/Whole_stuffed_camel\">whole stuffed camel</a> or a <a href=\"https://www.epicurious.com/recipes/food/views/vegducken\">vegducken</a>?",
+"Hottest Trend of Summer 2021: Post a white picture on your social media, link people to The Social Dilemma, and log out of your account forever."
 ];
 
 //img link, html to inject
