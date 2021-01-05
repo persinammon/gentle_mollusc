@@ -73,7 +73,6 @@ body {
 
 .border-active {
   border: 3px dashed #43c191;
-  //#cec0fc
   cursor: pointer;
 }
 .border-active.red {
@@ -118,7 +117,7 @@ a { color: black; }
 
 .palette { border: black 1px solid; background: white;}
 
-.blackcurrant { }
+.blackcurrant { color:#cec0fc}
 
 #palettes { padding: 5px; overflow-x:scroll; overflow-y:scroll;}
 
