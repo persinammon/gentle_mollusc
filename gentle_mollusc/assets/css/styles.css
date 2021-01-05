@@ -72,7 +72,8 @@ body {
 
 
 .border-active {
-  border: 3px dashed #cec0fc;
+  border: 3px dashed #2b7430;
+  //#cec0fc
   cursor: pointer;
 }
 .border-active.red {
