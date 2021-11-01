@@ -1,3 +1,3 @@
 # mgnica.github.io
 
-This is my personal site. I finally made it an aesthetic I like! :D
+This is my personal site. I like it a lot! :D
