@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Courier New";
+  font-weight: bolder;
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
