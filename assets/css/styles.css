@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url("../images/starry_sky.jpg");
+  background-image: url("assets\images\starry_sky.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Courier New";
@@ -112,7 +112,7 @@ a { color: black; }
 #sketchpad {
   border: #cec0fc 3px solid;
   background: white;
-  cursor: url("../images/you/brush.png"), url("/gentle_mollusc/assets/images/you/brush.png"), default;
+  cursor: url("assets\images\you\brush.png"), url("assets\images\you\eraser.png"), default;
 }
 
 .palette { border: black 1px solid; background: white;}
