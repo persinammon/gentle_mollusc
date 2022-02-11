@@ -8,7 +8,6 @@ words = [
 "Apparently 'This Song is Not For Anyone But You' became 'Twilight' in English....<a href='https://www.youtube.com/watch?v=gd38-X3HpbM' target='_blank'>https://www.youtube.com/watch?v=gd38-X3HpbM</a>",
 "\"meeting the wrong person at the right time\"",
 "Would You Rather: Eat a whole stuffed camel or a vegducken?",
-"Hottest Trend of the Summer: Post a white picture on your social media, link people to The Social Dilemma, and logout forever/delete."
 ];
 
 //img link, html to inject
