@@ -112,7 +112,7 @@ a { color: black; }
 #sketchpad {
   border: #cec0fc 3px solid;
   background: white;
-  cursor: url("assets\images\you\brush.png"), url("assets\images\you\eraser.png"), default;
+  cursor: url("../images/you/brush.png"), url("../images/you/eraser.png"), default;
 }
 
 .palette { border: black 1px solid; background: white;}
