@@ -13,12 +13,12 @@ words = [
 
 //img link, html to inject
 me = [
-["assets\images\about\baby.jpg", "<p><b>Likes:</b> Lion King, ants, apple juice, game where fit shapes into holes</p><p><b>Dislikes:</b> Toothbrush</p>"],
-["assets\images\about\17.jpg", "<a href='https://earthzine.org/fire-and-ice-wars-battles-in-the-sierra-nevada-mountains/' target='_blank'>Environmental science</a> and loads of <a href='https://www.github.com/fantastic-books-in-clips' target='_blank'>books.</a>"],
-["assets\images\about\college_1.jpg", "Liar's Club and realizing environmental science and I aren't gonna work out."],
-["assets\images\about\college_2.jpg", "Me and Proud at a design club retreat at Yosemite. She called my toes weird :("],
-["assets\images\about\23.jpg", "Working in a foreign country and wandering into a showing of <a href='https://www.youtube.com/watch?v=WQ_Yo06kIIA' target='_blank'>Hausu</a>. I want to paint in Japan and make a kalimba."],
-["assets\images\about\rooster.jpg", "It's a rooster."],
+["assets/images/about/baby.jpg", "<p><b>Likes:</b> Lion King, ants, apple juice, game where fit shapes into holes</p><p><b>Dislikes:</b> Toothbrush</p>"],
+["assets/images/about/17.jpg", "<a href='https://earthzine.org/fire-and-ice-wars-battles-in-the-sierra-nevada-mountains/' target='_blank'>Environmental science</a> and loads of <a href='https://www.github.com/fantastic-books-in-clips' target='_blank'>books.</a>"],
+["assets/images/about/college_1.jpg", "Liar's Club and realizing environmental science and I aren't gonna work out."],
+["assets/images/about/college_2.jpg", "Me and Proud at a design club retreat at Yosemite. She called my toes weird :("],
+["assets/images/about/23.jpg", "Working in a foreign country and wandering into a showing of <a href='https://www.youtube.com/watch?v=WQ_Yo06kIIA' target='_blank'>Hausu</a>. I want to paint in Japan and make a kalimba."],
+["assets/images/about/rooster.jpg", "It's a rooster."],
 ];
 
 art_wall = [
