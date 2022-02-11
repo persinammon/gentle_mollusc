@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url('assets/images/starry_sky.jpg');
+  background-image: url('../images/starry_sky.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Courier New";
