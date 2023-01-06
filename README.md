@@ -21,7 +21,8 @@ bypass the paywall)
 otherwise a default picture set before load
 - A painting pad and crowd-sourced color palettes representing people's hometowns, allowing visitors to
 paint with colors from people's hometowns, download the painting, and submit it for randomized display to future visitors.
-Color palettes rendering and paint color logic implemented with vanilla JavaScript
+Color palettes rendering and paint color logic implemented with vanilla JavaScript. Some submissions
+deviated from the prompt a bit
 
 ## Link to Visit 
 
