@@ -16,6 +16,7 @@ me = [
 ["../assets/images/about/17.jpg", "<a href='https://earthzine.org/fire-and-ice-wars-battles-in-the-sierra-nevada-mountains/' target='_blank'>Environmental science</a> and loads of <a href='https://www.github.com/fantastic-books-in-clips' target='_blank'>books.</a>"],
 ["../assets/images/about/23.jpg", "Working in a foreign country and wandering into a showing of <a href='https://www.youtube.com/watch?v=WQ_Yo06kIIA' target='_blank'>Hausu</a>. I want to paint in Japan and make a kalimba."],
 ["../assets/images/about/rooster.jpg", "It's a rooster."],
+["../assets/images/about/moon_ttyl.jpeg", "Sonic Interlude: Romanticism; transcendence;;(Bram Stoker Bram's Strokes | Mary & Percy are two sides of the same coin; {a sophomoric victory in finding the meaning of life | the pinnacle of the West }; <br /> communion with nature is the only salvation there is); <br /> nevermore nevermore; I dedicate this soliloquy to e.e. cummings x h[e]art crane's very own love child, which is to say nobody in particular at all. <br /> The leeward side of the moon // its friendly face to us and them."]
 ];
 
 art_wall = [
